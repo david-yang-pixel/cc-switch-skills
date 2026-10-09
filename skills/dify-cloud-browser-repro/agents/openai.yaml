@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dify Cloud 快速复现"
+  short_description: "在已登录 Chrome 中快速复现并定向取证 Dify Cloud 问题"
+  default_prompt: "Use $dify-cloud-browser-repro to reproduce this Dify Cloud issue in my signed-in Chrome and collect only the evidence needed after the symptom appears."

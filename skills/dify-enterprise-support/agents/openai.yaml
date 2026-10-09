@@ -1,0 +1,18 @@
+# Public export: deployment-specific endpoints replaced with example.com placeholders on 2026-10-09.
+interface:
+  display_name: "Dify Enterprise Support"
+  short_description: "调查企业版工单并生成未发送的中文回复草稿"
+  default_prompt: "Use $dify-enterprise-support to investigate this Dify Enterprise ticket and produce an unsent Chinese reply draft."
+
+dependencies:
+  tools:
+    - type: "mcp"
+      value: "openconnector"
+      description: "Route Zendesk, Dify Source, GitHub, public Dify docs, and Linear through their named OpenConnector connections"
+      transport: "streamable_http"
+      url: "https://openconnector.example.com/mcp"
+    - type: "mcp"
+      value: "dify-helm-watchdog"
+      description: "Resolve Enterprise releases, component images, release notes, validation, and upgrade paths"
+      transport: "streamable_http"
+      url: "https://helm-watchdog.example.com/api/v1/mcp"

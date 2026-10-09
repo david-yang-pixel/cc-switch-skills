@@ -1,0 +1,13 @@
+# Public export: deployment-specific endpoints replaced with example.com placeholders on 2026-10-09.
+interface:
+  display_name: "Dify Education Whitelist"
+  short_description: "Judge Dify education domains"
+  default_prompt: "Use $dify-education-whitelist to judge whether this school email domain qualifies for the Dify education discount whitelist."
+
+dependencies:
+  tools:
+    - type: "mcp"
+      value: "openconnector"
+      description: "Read Feishu policy, Dify official documentation, and supported whitelist state through named OpenConnector connections"
+      transport: "streamable_http"
+      url: "https://openconnector.example.com/mcp"
