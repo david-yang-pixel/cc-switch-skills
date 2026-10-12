@@ -40,33 +40,6 @@ Sources below come from local package records. A source link identifies provenan
 | `improve-codebase-architecture` | https://github.com/mattpocock/skills/blob/HEAD/skills/engineering/improve-codebase-architecture/SKILL.md |
 | `incremental-implementation` | No upstream URL recorded in the local package metadata. |
 | `iterative-retrieval` | No upstream URL recorded in the local package metadata. |
-| `lark-approval` | https://open.feishu.cn/.well-known/skills/lark-approval/SKILL.md |
-| `lark-apps` | https://open.feishu.cn/.well-known/skills/lark-apps/SKILL.md |
-| `lark-attendance` | https://open.feishu.cn/.well-known/skills/lark-attendance/SKILL.md |
-| `lark-base` | https://open.feishu.cn/.well-known/skills/lark-base/SKILL.md |
-| `lark-calendar` | https://open.feishu.cn/.well-known/skills/lark-calendar/SKILL.md |
-| `lark-contact` | https://open.feishu.cn/.well-known/skills/lark-contact/SKILL.md |
-| `lark-doc` | https://open.feishu.cn/.well-known/skills/lark-doc/SKILL.md |
-| `lark-drive` | https://open.feishu.cn/.well-known/skills/lark-drive/SKILL.md |
-| `lark-event` | https://open.feishu.cn/.well-known/skills/lark-event/SKILL.md |
-| `lark-im` | https://open.feishu.cn/.well-known/skills/lark-im/SKILL.md |
-| `lark-mail` | https://open.feishu.cn/.well-known/skills/lark-mail/SKILL.md |
-| `lark-markdown` | https://open.feishu.cn/.well-known/skills/lark-markdown/SKILL.md |
-| `lark-minutes` | https://open.feishu.cn/.well-known/skills/lark-minutes/SKILL.md |
-| `lark-note` | https://open.feishu.cn/.well-known/skills/lark-note/SKILL.md |
-| `lark-okr` | https://open.feishu.cn/.well-known/skills/lark-okr/SKILL.md |
-| `lark-openapi-explorer` | https://open.feishu.cn/.well-known/skills/lark-openapi-explorer/SKILL.md |
-| `lark-shared` | https://open.feishu.cn/.well-known/skills/lark-shared/SKILL.md |
-| `lark-sheets` | https://open.feishu.cn/.well-known/skills/lark-sheets/SKILL.md |
-| `lark-skill-maker` | https://open.feishu.cn/.well-known/skills/lark-skill-maker/SKILL.md |
-| `lark-slides` | https://open.feishu.cn/.well-known/skills/lark-slides/SKILL.md |
-| `lark-task` | https://open.feishu.cn/.well-known/skills/lark-task/SKILL.md |
-| `lark-vc` | https://open.feishu.cn/.well-known/skills/lark-vc/SKILL.md |
-| `lark-vc-agent` | https://open.feishu.cn/.well-known/skills/lark-vc-agent/SKILL.md |
-| `lark-whiteboard` | https://open.feishu.cn/.well-known/skills/lark-whiteboard/SKILL.md |
-| `lark-wiki` | https://open.feishu.cn/.well-known/skills/lark-wiki/SKILL.md |
-| `lark-workflow-meeting-summary` | https://open.feishu.cn/.well-known/skills/lark-workflow-meeting-summary/SKILL.md |
-| `lark-workflow-standup-report` | https://open.feishu.cn/.well-known/skills/lark-workflow-standup-report/SKILL.md |
 | `migrate-to-codex` | No upstream URL recorded in the local package metadata. |
 | `mysql-patterns` | No upstream URL recorded in the local package metadata. |
 | `pdf` | No upstream URL recorded in the local package metadata. |
@@ -88,7 +61,7 @@ Sources below come from local package records. A source link identifies provenan
 | `ui-ux-pro-max` | No upstream URL recorded in the local package metadata. |
 | `verification-loop` | No upstream URL recorded in the local package metadata. |
 
-The 27 `lark-*` packages were installed from the official `open.feishu.cn/.well-known/skills/` distribution. Their installed files did not include separate license files. Other entries without recorded origins or license files remain under their respective authors' rights; this repository does not infer a license for them.
+Entries without recorded origins or license files remain under their respective authors' rights; this repository does not infer a license for them.
 
 ## Export modifications
 
