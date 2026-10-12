@@ -1,6 +1,6 @@
 # Public export notes
 
-This repository contains a sanitized snapshot of 69 installed skills. The disabled `wechat-miniprogram` skill is not included.
+This repository contains a sanitized snapshot of 42 installed skills. The disabled `wechat-miniprogram` skill is not included.
 
 ## Deployment placeholders
 
@@ -24,8 +24,5 @@ Personal names were replaced with sample names. A machine-specific sample migrat
 - `skills/dify-support/SKILL.md`
 - `skills/dify-support/references/diagnostic-learning.md`
 - `skills/dify-support/references/tool-and-service-map.md`
-- `skills/lark-apps/references/lark-apps-db-execute.md`
 - `skills/thesis-writer/SKILL.md`
-- `skills/lark-approval/references/lark-approval-instance-form-control-parameters.md`
-- `skills/lark-im/references/lark-im-reactions.md`
 - `skills/verification-loop/SKILL.md`
